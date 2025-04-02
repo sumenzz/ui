@@ -1,4 +1,4 @@
-import SideNavigation from "./components/navbar/v3/Navbar";
+import SideNavigation from "./components/navbar/v1/Navbar";
 import { Col, Row } from "reactstrap";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
